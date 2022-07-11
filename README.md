@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izzydanny
+- 👋 Hi, you can call me izzy
 - 👀 I’m interested in python and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning projects
